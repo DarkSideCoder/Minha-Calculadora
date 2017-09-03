@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2013\Projects\Minha Calculadora\Minha Calculadora\bin\Debug\Minha Calculadora.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\Minha Calculadora\Minha Calculadora\bin\Debug\Minha Calculadora.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Minha Calculadora\Minha Calculadora\bin\Debug\Minha Calculadora.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Minha Calculadora\Minha Calculadora\obj\Debug\Minha Calculadora.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\Minha Calculadora\Minha Calculadora\obj\Debug\Minha_Calculadora.Form1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Minha Calculadora\Minha Calculadora\obj\Debug\Minha_Calculadora.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Minha Calculadora\Minha Calculadora\obj\Debug\Minha Calculadora.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\Minha Calculadora\Minha Calculadora\obj\Debug\Minha Calculadora.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Minha Calculadora\Minha Calculadora\obj\Debug\Minha Calculadora.pdb
